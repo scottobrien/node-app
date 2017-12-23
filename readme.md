@@ -1,5 +1,4 @@
 ## Node App
-____
 
 ##### In three seperate terminal windows, do the following:
 
