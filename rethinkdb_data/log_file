@@ -1,0 +1,87 @@
+2017-11-18T20:01:34.537443000 0.025680s notice: Recursively removing directory /Users/scottobrien/Sites/Sandbox/node-app/rethinkdb_data/tmp
+2017-11-18T20:01:34.539081000 0.027320s notice: Initializing directory /Users/scottobrien/Sites/Sandbox/node-app/rethinkdb_data
+2017-11-18T20:01:34.539156000 0.027391s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/scottobrien/Sites/Sandbox/node-app/rethinkdb_data' did not already exist or is empty.)
+2017-11-18T20:01:34.539195000 0.027431s notice: Running rethinkdb 2.3.6 (CLANG 8.1.0 (clang-802.0.42))...
+2017-11-18T20:01:34.545225000 0.033462s notice: Running on Darwin 17.2.0 x86_64
+2017-11-18T20:01:34.545277000 0.033513s notice: Loading data from directory /Users/scottobrien/Sites/Sandbox/node-app/rethinkdb_data
+2017-11-18T20:01:34.666376000 0.154616s info: Automatically using cache size of 5604 MB
+2017-11-18T20:01:34.667361000 0.155600s notice: Listening for intracluster connections on port 29015
+2017-11-18T20:01:34.669260000 0.157499s notice: Listening for client driver connections on port 28015
+2017-11-18T20:01:34.669378000 0.157617s notice: Listening for administrative HTTP connections on port 8080
+2017-11-18T20:01:34.669380000 0.157619s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2017-11-18T20:01:34.669383000 0.157622s notice: Listening on driver addresses: 127.0.0.1, ::1
+2017-11-18T20:01:34.669385000 0.157624s notice: Listening on http addresses: 127.0.0.1, ::1
+2017-11-18T20:01:34.669389000 0.157628s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-11-18T20:01:34.669393000 0.157632s notice: Server ready, "Scotts_MBP_attlocal_net_o7k" c6e1fc8c-5f83-467b-bd64-42a88ea87a0e
+2017-11-18T20:02:01.374120000 26.863028s info: Table f9cee7cf-5c07-400d-b349-b5cd59f4a7dc: Starting a new Raft election for term 1.
+2017-11-18T20:02:01.374847000 26.863755s info: Table f9cee7cf-5c07-400d-b349-b5cd59f4a7dc: Added replica on this server.
+2017-11-18T20:02:01.375111000 26.864019s info: Table 28432d38-fd0b-420a-af81-d8d7c3948652: Starting a new Raft election for term 1.
+2017-11-18T20:02:01.375293000 26.864201s info: Table 28432d38-fd0b-420a-af81-d8d7c3948652: Added replica on this server.
+2017-11-18T20:02:01.375297000 26.864204s info: Table 5b696aff-ab4d-4f3f-82f3-57f206b9e1e5: Starting a new Raft election for term 1.
+2017-11-18T20:02:01.375320000 26.864227s info: Table 9f940f5d-3753-4f17-9132-169bbb718a56: Starting a new Raft election for term 1.
+2017-11-18T20:02:01.375696000 26.864603s info: Table 5b696aff-ab4d-4f3f-82f3-57f206b9e1e5: Added replica on this server.
+2017-11-18T20:02:01.375800000 26.864707s info: Table 9f940f5d-3753-4f17-9132-169bbb718a56: Added replica on this server.
+2017-11-18T20:02:01.399139000 26.888048s info: Table f9cee7cf-5c07-400d-b349-b5cd59f4a7dc: This server is Raft leader for term 1. Latest log index is 0.
+2017-11-18T20:02:01.399213000 26.888121s info: Table 28432d38-fd0b-420a-af81-d8d7c3948652: This server is Raft leader for term 1. Latest log index is 0.
+2017-11-18T20:02:01.399249000 26.888156s info: Table 5b696aff-ab4d-4f3f-82f3-57f206b9e1e5: This server is Raft leader for term 1. Latest log index is 0.
+2017-11-18T20:02:01.419119000 26.908028s info: Table 9f940f5d-3753-4f17-9132-169bbb718a56: This server is Raft leader for term 1. Latest log index is 0.
+2017-11-18T21:14:56.133388000 4401.775115s info: Table 7a831d7f-a07f-46e3-8125-d8b8de6f2092: Starting a new Raft election for term 1.
+2017-11-18T21:14:56.133708000 4401.775435s info: Table 7a831d7f-a07f-46e3-8125-d8b8de6f2092: Added replica on this server.
+2017-11-18T21:14:56.152856000 4401.794584s info: Table 7a831d7f-a07f-46e3-8125-d8b8de6f2092: This server is Raft leader for term 1. Latest log index is 0.
+2017-11-18T21:15:50.297756000 4455.941588s info: Table 1ce873d2-aabe-425c-ae93-0c0de0d19d1d: Starting a new Raft election for term 1.
+2017-11-18T21:15:50.298079000 4455.941911s info: Table 1ce873d2-aabe-425c-ae93-0c0de0d19d1d: Added replica on this server.
+2017-11-18T21:15:50.319690000 4455.963522s info: Table 1ce873d2-aabe-425c-ae93-0c0de0d19d1d: This server is Raft leader for term 1. Latest log index is 0.
+2017-11-19T18:13:24.715317000 15374.511903s info: Table 1ce873d2-aabe-425c-ae93-0c0de0d19d1d: Configuration is changing.
+2017-12-22T12:01:59.274483000 0.157091s notice: Running rethinkdb 2.3.6 (CLANG 8.1.0 (clang-802.0.42))...
+2017-12-22T12:01:59.282934000 0.165538s notice: Running on Darwin 17.2.0 x86_64
+2017-12-22T12:01:59.282995000 0.165599s notice: Loading data from directory /Users/scottobrien/Sites/Sandbox/node-app/rethinkdb_data
+2017-12-22T12:01:59.332435000 0.215039s info: Automatically using cache size of 5894 MB
+2017-12-22T12:01:59.333012000 0.215616s notice: Listening for intracluster connections on port 29015
+2017-12-22T12:01:59.400264000 0.282868s notice: Listening for client driver connections on port 28015
+2017-12-22T12:01:59.400355000 0.282959s notice: Listening for administrative HTTP connections on port 8080
+2017-12-22T12:01:59.400357000 0.282961s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2017-12-22T12:01:59.400586000 0.283189s notice: Listening on driver addresses: 127.0.0.1, ::1
+2017-12-22T12:01:59.400587000 0.283191s notice: Listening on http addresses: 127.0.0.1, ::1
+2017-12-22T12:01:59.400589000 0.283192s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-12-22T12:01:59.400590000 0.283194s notice: Server ready, "Scotts_MBP_attlocal_net_o7k" c6e1fc8c-5f83-467b-bd64-42a88ea87a0e
+2017-12-22T12:02:00.402759000 1.285363s info: Table 28432d38-fd0b-420a-af81-d8d7c3948652: Starting a new Raft election for term 2.
+2017-12-22T12:02:00.439429000 1.322033s info: Table 28432d38-fd0b-420a-af81-d8d7c3948652: This server is Raft leader for term 2. Latest log index is 3.
+2017-12-22T12:02:01.005455000 1.888059s info: Table 5b696aff-ab4d-4f3f-82f3-57f206b9e1e5: Starting a new Raft election for term 2.
+2017-12-22T12:02:01.079123000 1.961727s info: Table 1ce873d2-aabe-425c-ae93-0c0de0d19d1d: Starting a new Raft election for term 2.
+2017-12-22T12:02:01.094510000 1.977114s info: Table 5b696aff-ab4d-4f3f-82f3-57f206b9e1e5: This server is Raft leader for term 2. Latest log index is 3.
+2017-12-22T12:02:01.106655000 1.989259s info: Table 1ce873d2-aabe-425c-ae93-0c0de0d19d1d: This server is Raft leader for term 2. Latest log index is 3.
+2017-12-22T12:02:01.159055000 2.041659s info: Table 9f940f5d-3753-4f17-9132-169bbb718a56: Starting a new Raft election for term 2.
+2017-12-22T12:02:01.177521000 2.060126s info: Table 9f940f5d-3753-4f17-9132-169bbb718a56: This server is Raft leader for term 2. Latest log index is 3.
+2017-12-22T12:02:01.315329000 2.197933s info: Table f9cee7cf-5c07-400d-b349-b5cd59f4a7dc: Starting a new Raft election for term 2.
+2017-12-22T12:02:01.336140000 2.218744s info: Table f9cee7cf-5c07-400d-b349-b5cd59f4a7dc: This server is Raft leader for term 2. Latest log index is 3.
+2017-12-22T12:02:01.354218000 2.236822s info: Table 7a831d7f-a07f-46e3-8125-d8b8de6f2092: Starting a new Raft election for term 2.
+2017-12-22T12:02:01.379273000 2.261877s info: Table 7a831d7f-a07f-46e3-8125-d8b8de6f2092: This server is Raft leader for term 2. Latest log index is 2.
+2017-12-22T12:36:48.938285000 1627.551295s notice: Server got SIGINT from pid 531, uid 501; shutting down...
+2017-12-22T12:36:48.938469000 1627.551478s notice: Shutting down client connections...
+2017-12-22T12:36:48.938582000 1627.551592s notice: All client connections closed.
+2017-12-22T12:36:48.938587000 1627.551596s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2017-12-22T12:36:48.951703000 1627.564713s notice: Storage engine shut down.
+2017-12-22T12:36:56.704326000 0.014787s notice: Running rethinkdb 2.3.6 (CLANG 8.1.0 (clang-802.0.42))...
+2017-12-22T12:36:56.708286000 0.018743s notice: Running on Darwin 17.2.0 x86_64
+2017-12-22T12:36:56.708326000 0.018783s notice: Loading data from directory /Users/scottobrien/Sites/Sandbox/node-app/rethinkdb_data
+2017-12-22T12:36:56.747537000 0.057995s info: Automatically using cache size of 5432 MB
+2017-12-22T12:36:56.748197000 0.058655s notice: Listening for intracluster connections on port 29015
+2017-12-22T12:36:56.819558000 0.130018s notice: Listening for client driver connections on port 28015
+2017-12-22T12:36:56.819652000 0.130112s notice: Listening for administrative HTTP connections on port 8080
+2017-12-22T12:36:56.819655000 0.130115s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2017-12-22T12:36:56.819684000 0.130144s notice: Listening on driver addresses: 127.0.0.1, ::1
+2017-12-22T12:36:56.819685000 0.130145s notice: Listening on http addresses: 127.0.0.1, ::1
+2017-12-22T12:36:56.819697000 0.130157s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-12-22T12:36:56.819699000 0.130158s notice: Server ready, "Scotts_MBP_attlocal_net_o7k" c6e1fc8c-5f83-467b-bd64-42a88ea87a0e
+2017-12-22T12:36:57.861699000 1.172187s info: Table 1ce873d2-aabe-425c-ae93-0c0de0d19d1d: Starting a new Raft election for term 3.
+2017-12-22T12:36:57.892220000 1.202709s info: Table 1ce873d2-aabe-425c-ae93-0c0de0d19d1d: This server is Raft leader for term 3. Latest log index is 6.
+2017-12-22T12:36:57.906718000 1.217207s info: Table 5b696aff-ab4d-4f3f-82f3-57f206b9e1e5: Starting a new Raft election for term 3.
+2017-12-22T12:36:57.948526000 1.259016s info: Table 5b696aff-ab4d-4f3f-82f3-57f206b9e1e5: This server is Raft leader for term 3. Latest log index is 6.
+2017-12-22T12:36:58.026990000 1.337482s info: Table 7a831d7f-a07f-46e3-8125-d8b8de6f2092: Starting a new Raft election for term 3.
+2017-12-22T12:36:58.047521000 1.358014s info: Table 7a831d7f-a07f-46e3-8125-d8b8de6f2092: This server is Raft leader for term 3. Latest log index is 6.
+2017-12-22T12:36:58.321777000 1.632278s info: Table 9f940f5d-3753-4f17-9132-169bbb718a56: Starting a new Raft election for term 3.
+2017-12-22T12:36:58.374731000 1.685233s info: Table 9f940f5d-3753-4f17-9132-169bbb718a56: This server is Raft leader for term 3. Latest log index is 6.
+2017-12-22T12:36:58.378401000 1.688903s info: Table 28432d38-fd0b-420a-af81-d8d7c3948652: Starting a new Raft election for term 3.
+2017-12-22T12:36:58.421492000 1.731995s info: Table 28432d38-fd0b-420a-af81-d8d7c3948652: This server is Raft leader for term 3. Latest log index is 6.
+2017-12-22T12:36:58.424717000 1.735220s info: Table f9cee7cf-5c07-400d-b349-b5cd59f4a7dc: Starting a new Raft election for term 3.
+2017-12-22T12:36:58.471683000 1.782187s info: Table f9cee7cf-5c07-400d-b349-b5cd59f4a7dc: This server is Raft leader for term 3. Latest log index is 6.
