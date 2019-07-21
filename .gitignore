@@ -2,3 +2,4 @@
 rethinkdb_data
 ./client/node_modules/
 ./server/node_modules/
+./server/rethinkdb_data
